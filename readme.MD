@@ -38,7 +38,7 @@ The dataset consists of images of cats and dogs, split into training and test se
 
 ## Results
 
-The model achieved an accuracy of **X%** on the test set with a final loss of **Y**. While the results are promising, there are several ways to potentially improve the model's performance:
+The model achieved an accuracy of **90.81%** on the test set with a final loss of **0.2317**. While the results are promising, there are several ways to potentially improve the model's performance:
 
 1. **Data Augmentation**: Experiment with additional augmentation techniques or parameters.
 2. **Model Architecture**: Increase the depth of the network or add more filters.
@@ -46,9 +46,15 @@ The model achieved an accuracy of **X%** on the test set with a final loss of **
 4. **Learning Rate Adjustments**: Use learning rate schedules for better convergence.
 5. **Batch Normalization**: Add batch normalization layers to stabilize training.
 
-## Usage
 
-To train the model, execute the following command in a Python environment with the necessary dependencies:
+## Conclusion
 
-```bash
-python train.py
+This project showcases the implementation of an Artificial Neural Network for predicting bank customer churn. With further enhancements and more complex architectures, the model's performance can potentially be improved.
+
+## How to Run
+
+1. Clone the repository.
+2. Install the required libraries from `requirements.txt`.
+3. Run the Jupyter notebook to preprocess data, build, train, and evaluate the CNN model.
+
+----
