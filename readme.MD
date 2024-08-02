@@ -49,7 +49,7 @@ The model achieved an accuracy of **90.81%** on the test set with a final loss o
 
 ## Conclusion
 
-This project showcases the implementation of an Artificial Neural Network for predicting bank customer churn. With further enhancements and more complex architectures, the model's performance can potentially be improved.
+This project showcases the implementation of an Convolutional Neural Network (CNN) model designed to recognize images of cats and dogs. With further enhancements and more complex architectures, the model's performance can potentially be improved.
 
 ## How to Run
 
